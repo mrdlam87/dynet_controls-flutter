@@ -6,6 +6,7 @@ A mobile application for Dynalite lighting control system built using Flutter.
 
 - Populates lighting areas by importing Dynalite project XML file.
 - Sends local Dynet commands using http requests
+- Uses Provider for global state management
 - Lighting areas are laid out in grids to provide overview
 - Incorporated user experience features such as search bar, recently used, frequently used and favourites
 - From overview can open detail of lighting area
