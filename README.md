@@ -1,16 +1,12 @@
-# dynet_controls_v4
+# Dynet Controls
 
-A new Flutter project.
+A mobile application for Dynalite lighting control system
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Populates lighting areas by importing Dynalite project XML file.
+- Sends local Dynet commands using http requests
+- Lighting areas are laid out in grids to provide overview
+- Incorporated user experience features such as search bar, recently used, frequently used and favourites
+- From overview can open detail of lighting area
+- Used simple and clean animations
