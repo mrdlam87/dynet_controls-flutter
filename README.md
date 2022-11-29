@@ -1,6 +1,6 @@
 # Dynet Controls
 
-A mobile application for Dynalite lighting control system
+A mobile application for Dynalite lighting control system built using Flutter.
 
 ## Overview
 
